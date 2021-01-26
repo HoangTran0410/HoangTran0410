@@ -15,12 +15,17 @@
 
 
 ## Connect with me 👀
-<p align="left">
+<!--<p align="left">
 <a href="https://codepen.io/hoanghien0410" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hoanghien0410" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hoang-tran-69731113a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hoang-tran-69731113a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11898496" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11898496" height="30" width="40" /></a>
 <a href="https://fb.com/99.hoangtran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="99.hoangtran" height="30" width="40" /></a>
-</p>
+</p>-->
+
+<a href="https://fb.com/99.hoangtran" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+<a href="https://linkedin.com/in/hoang-tran-69731113a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://stackoverflow.com/users/11898496" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
+<a href="https://codepen.io/hoanghien0410" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="facebook"/></a>
 
 
 ## Languages and Tools 🛠
