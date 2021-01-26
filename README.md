@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hoang Tran</h1>
-<h3 align="center">A passionate game developer from VietNam</h3>
+# Hi 👋, I'm Hoang Tran
+### A passionate Game/FrontEnd developer from VietNam
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hoangtran0410&label=Profile%20views&color=0e75b6&style=flat" alt="hoangtran0410" /> </p>
-
-## Hello, folks! 🖐
+![view counter](https://komarev.com/ghpvc/?username=hoangtran0410&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on **something awsome 🥰**
 
@@ -28,15 +26,16 @@
 
 ## 📈 GitHub Stats
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangtran0410" alt="hoangtran0410" /></a> </p>
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangtran0410" alt="hoangtran0410" /></a> </p>-->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hoangtran0410&show_icons=true&locale=en" alt="hoangtran0410" /></p>
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=hoangtran0410&show_icons=true&locale=en)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtran0410&" alt="hoangtran0410" /></p>
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=hoangtran0410)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangtran0410&count_private=true&show_icons=true&locale=en&layout=compact" alt="hoangtran0410" /></p>
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=hoangtran0410&count_private=true&show_icons=true&locale=en&layout=compact)
 
 ## 👩‍💻 Activity
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HoangTran0410" alt="HoangTran's wakatime stats" /></p>
+![HoangTran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HoangTran0410)
+
 
