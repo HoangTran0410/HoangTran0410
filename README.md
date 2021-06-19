@@ -18,7 +18,7 @@
 ## Connect with me 👀
 <!--<p align="left">
 <a href="https://codepen.io/hoanghien0410" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hoanghien0410" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hoang-tran-69731113a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hoang-tran-69731113a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/99-hoangtran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hoang-tran-69731113a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11898496" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11898496" height="30" width="40" /></a>
 <a href="https://fb.com/99.hoangtran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="99.hoangtran" height="30" width="40" /></a>
 </p>-->
