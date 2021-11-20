@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hoang Tran
-### A passionate Game/FrontEnd developer from VietNam
+### A passionate Game/FrontEnd/BackEnd developer from VietNam
 
 ![view counter](https://komarev.com/ghpvc/?username=hoangtran0410&label=Profile%20views&color=0e75b6&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=36368107)
