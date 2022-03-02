@@ -46,3 +46,5 @@
 
 ![HoangTran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HoangTran0410&theme=tokyonight)
 
+<figure><embed src="https://wakatime.com/share/@HoangTran0410/846c21e5-50c7-4e32-99c6-b595fdfb6b06.svg"></embed></figure>
+
