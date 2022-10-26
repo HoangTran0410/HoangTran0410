@@ -6,7 +6,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=36368107)
 
-## Donate 🫶💰❤️‍🔥
+## Donate ✨💲🤝💖
 
 Want to Donate!? [Click Here](./DONATE.md)
 
