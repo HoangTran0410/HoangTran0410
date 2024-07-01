@@ -17,11 +17,22 @@ My name is [Hoang Tran](https://github.com/HoangTran0410)
 
 ### Services
 
-<img src="https://github.githubassets.com/assets/buy_me_a_coffee-63ed78263f6e.svg" alt="drawing" width="30"/> [buymeacoffee.com/99hoangtran](https://buymeacoffee.com/99hoangtran)
+<a href="https://buymeacoffee.com/99hoangtran" style="display:block">
+    <img src="https://github.githubassets.com/assets/buy_me_a_coffee-63ed78263f6e.svg" alt="buymeacoffee" width="30"/>
+    buymeacoffee.com/99hoangtran
+</a>
+<br/>
 
-<img src="https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg" alt="drawing" width="30"/> [patreon.com/99_hoangtran](https://patreon.com/99_hoangtran)
+<a href="https://patreon.com/99_hoangtran" style="display:block">
+    <img src="https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg" alt="patreon" width="30"/>
+    patreon.com/99_hoangtran
+</a>
+<br/>
 
-<img src="https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg" alt="drawing" width="30"/> [ko-fi.com/99hoangtran](https://ko-fi.com/99hoangtran)
+<a href="https://ko-fi.com/99hoangtran" style="display:block">
+    <img src="https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg" alt="ko-fi" width="30"/>
+    ko-fi.com/99hoangtran
+</a>
 
 ### Banks
 
