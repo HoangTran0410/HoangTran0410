@@ -34,14 +34,25 @@ Want to Donate!? [Click Here](./DONATE.md)
 
 ## GitHub Stats 📈
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=hoangtran0410&show_icons=true&locale=en&theme=tokyonight)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtran0410&show_icons=true&locale=en&theme=tokyonight&rank_icon=percentile" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtran0410&theme=tokyonight" />
+  </a>
+</p>
 
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=hoangtran0410&theme=tokyonight)
-
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=hoangtran0410&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight)
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=hoangtran0410&theme=algolia&rank=-C,-B&margin-w=3" alt="hoangtran0410" />
+  </a>
+</p>
 
 ## Activity 👩‍💻
 
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=hoangtran0410&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight)
+
 ![HoangTran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HoangTran0410&theme=tokyonight&layout=compact)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangtran0410" alt="hoangtran0410" /></a> </p>
+
