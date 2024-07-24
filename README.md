@@ -8,7 +8,7 @@
 
 ## Donate ✨💲🤝💖
 
-Want to Donate!? [Click Here](./DONATE.md)
+Want to Donate!? [Click Here](https://hoangtran0410.github.io/HoangTran0410/DONATE)
 
 ## Overview
 
