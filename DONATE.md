@@ -1,5 +1,15 @@
 # Hi World
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('99hoangtran', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 My name is [Hoang Tran](https://github.com/HoangTran0410)
 
 #### Want to buy me a coffee ☕
