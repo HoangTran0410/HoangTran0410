@@ -16,7 +16,7 @@ Want to Donate!? [Click Here](https://hoangtran0410.github.io/HoangTran0410/DONA
 
 - 🌱 I’m currently learning **Everything 😎**
 
-- 👯 I’m looking to collaborate on [Useful-script ](https://github.com/HoangTran0410/useful-script), [Facebook-all-in-one](https://github.com/Useful-Scripts-Extension/facebook-all-in-one), [LOL2D](https://github.com/LOL2D) 🎇🎆
+- 👯 I’m looking to collaborate on [Useful-script ](https://github.com/HoangTran0410/useful-script), [Facebook-all-in-one](https://github.com/fb-aio), [LOL2D](https://github.com/LOL2D) 🎇🎆
 
 - 💬 Ask me about **anything 🤣**
 
