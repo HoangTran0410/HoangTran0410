@@ -32,6 +32,17 @@ Want to Donate!? [Click Here](https://hoangtran0410.github.io/HoangTran0410/DONA
 <a href="https://wakatime.com/@HoangTran0410" target="blank"><img align="center" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="wakatime"/></a>
 </div>
 
+## Insights ✨
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=36368107" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=36368107&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @HoangTran0410" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=36368107&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 ## GitHub Stats 📈
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=hoangtran0410&show_icons=true&locale=en&theme=tokyonight&rank_icon=percentile&hide_border=true)
