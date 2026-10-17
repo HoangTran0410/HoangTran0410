@@ -22,6 +22,10 @@ Want to Donate!? [Click Here](https://hoangtran0410.github.io/HoangTran0410/DONA
 
 - 📫 How to reach me **99.hoangtran@gmail.com**
 
+<!-- aio-desktop:start -->
+- 🖥️ Try **[AIO Desktop](https://fbaio.org/#/desktop)** — a growing collection of free tools & games in one Windows/macOS-style web desktop · kho công cụ, trò chơi miễn phí ngày càng nhiều trong 1 màn hình kiểu Windows/macOS 🎮
+<!-- aio-desktop:end -->
+
 ## Connect with me 👀
 
 <div>
