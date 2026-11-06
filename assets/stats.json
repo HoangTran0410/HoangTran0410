@@ -1,7 +1,9 @@
 {
   "repos": 190,
-  "own_repos": 100,
+  "contributed": 0,
   "stars": 859,
-  "forks": 389,
-  "followers": 500
+  "followers": 500,
+  "commits": 0,
+  "loc_add": 0,
+  "loc_del": 0
 }

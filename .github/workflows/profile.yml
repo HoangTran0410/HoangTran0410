@@ -5,7 +5,6 @@ on:
     - cron: "17 3 * * *" # mỗi ngày 10:17 giờ VN
   workflow_dispatch:
   push:
-    branches: [main]
     paths:
       - "scripts/**"
       - ".github/workflows/profile.yml"
