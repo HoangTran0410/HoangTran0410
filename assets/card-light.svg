@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="930" height="470" viewBox="0 0 930 470" role="img" aria-label="Hoang Tran — neofetch-style profile card">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 14.5px; fill: #24292f; white-space: pre; }
+  .key { fill: #953800; } .val { fill: #0a3069; } .dim { fill: #8c959f; }
+  .acc { fill: #8250df; font-weight: 700; } .ok { fill: #1a7f37; }
+  .art { fill: #8250df; } .art2 { fill: #0969da; animation: blink 1.6s steps(1) infinite; }
+  .ln { opacity: 0; animation: in .35s ease-out forwards; }
+  .cur { fill: #1a7f37; animation: blink 1s steps(1) infinite; }
+  .foot { font-size: 11px; fill: #8c959f; }
+  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  @keyframes blink { 70% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .ln { animation: none; opacity: 1; } .cur, .art2 { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="929" height="469" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="30" y="100.2" class="art" xml:space="preserve">        ▄▄████████████▄▄</text>
+<text x="30" y="119.8" class="art" xml:space="preserve">     ▄██▀▀            ▀▀██▄</text>
+<text x="30" y="139.2" class="art" xml:space="preserve">   ▄█▀    ██              ▀█▄</text>
+<text x="30" y="158.8" class="art" xml:space="preserve">  ██    ██████     ●   ●    ██</text>
+<text x="30" y="178.2" class="art" xml:space="preserve">  █       ██     ●       ●   █</text>
+<text x="30" y="197.8" class="art" xml:space="preserve">  █              ●   ●       █</text>
+<text x="30" y="217.2" class="art" xml:space="preserve">  ██      ▄▄▄▄▄▄▄▄▄▄▄▄      ██</text>
+<text x="30" y="236.8" class="art" xml:space="preserve">   ▀█▄  ▄█▀          ▀█▄  ▄█▀</text>
+<text x="30" y="256.2" class="art" xml:space="preserve">     ▀███▀              ▀███▀</text>
+<text x="30" y="275.8" class="art" xml:space="preserve"></text>
+<text x="30" y="295.2" class="art2" xml:space="preserve">     ┌─────────────────────┐</text>
+<text x="30" y="314.8" class="art2" xml:space="preserve">     │  PRESS  ▶  START    │</text>
+<text x="30" y="334.2" class="art2" xml:space="preserve">     └─────────────────────┘</text>
+<text x="390" y="40.0" class="ln" style="animation-delay:0.25s"><tspan class="acc">hoang@github</tspan><tspan class="dim"> ─────────────────────────────────────────────</tspan></text>
+<text x="390" y="59.5" class="ln" style="animation-delay:0.31s"><tspan class="dim">. </tspan><tspan class="key">OS</tspan><tspan class="dim">: .............. </tspan><tspan class="val">Linux · macOS · Android · the Browser</tspan></text>
+<text x="390" y="79.0" class="ln" style="animation-delay:0.37s"><tspan class="dim">. </tspan><tspan class="key">Host</tspan><tspan class="dim">: ......................... </tspan><tspan class="val">MoMo · Software Engineer</tspan></text>
+<text x="390" y="98.5" class="ln" style="animation-delay:0.43s"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan><tspan class="dim">: ................ </tspan><tspan class="val">8 years, 10 months (since 2018)</tspan></text>
+<text x="390" y="118.0" class="ln" style="animation-delay:0.49s"><tspan class="dim">. </tspan><tspan class="key">Kernel</tspan><tspan class="dim">: ............... </tspan><tspan class="val">Game · Frontend · Mobile · Tools</tspan></text>
+<text x="390" y="137.5" class="ln" style="animation-delay:0.55s"><tspan class="dim">. </tspan><tspan class="key">IDE</tspan><tspan class="dim">: ............................. </tspan><tspan class="val">VS Code + Claude Code</tspan></text>
+<text x="390" y="157.0" class="ln" style="animation-delay:0.61s"></text>
+<text x="390" y="176.5" class="ln" style="animation-delay:0.67s"><tspan class="dim">. </tspan><tspan class="key">Lang.Daily</tspan><tspan class="dim">: ............. </tspan><tspan class="val">TypeScript, Kotlin, JavaScript</tspan></text>
+<text x="390" y="196.0" class="ln" style="animation-delay:0.73s"><tspan class="dim">. </tspan><tspan class="key">Lang.Games</tspan><tspan class="dim">: ......... </tspan><tspan class="val">Canvas 2D, p5.js, Phaser, Three.js</tspan></text>
+<text x="390" y="215.5" class="ln" style="animation-delay:0.79s"><tspan class="dim">. </tspan><tspan class="key">Lang.Other</tspan><tspan class="dim">: ...................... </tspan><tspan class="val">Java, C#, Python, PHP</tspan></text>
+<text x="390" y="235.0" class="ln" style="animation-delay:0.85s"><tspan class="dim">. </tspan><tspan class="key">Hobbies</tspan><tspan class="dim">: .......... </tspan><tspan class="val">building engines, killing annoyances</tspan></text>
+<text x="390" y="254.5" class="ln" style="animation-delay:0.91s"></text>
+<text x="390" y="274.0" class="ln" style="animation-delay:0.97s"><tspan class="dim">- </tspan><tspan class="acc">Contact</tspan><tspan class="dim"> ────────────────────────────────────────────────</tspan></text>
+<text x="390" y="293.5" class="ln" style="animation-delay:1.03s"><tspan class="dim">. </tspan><tspan class="key">Email</tspan><tspan class="dim">: .......................... </tspan><tspan class="val">99.hoangtran@gmail.com</tspan></text>
+<text x="390" y="313.0" class="ln" style="animation-delay:1.09s"><tspan class="dim">. </tspan><tspan class="key">Web</tspan><tspan class="dim">: .............................. </tspan><tspan class="val">hoangtran99.is-a.dev</tspan></text>
+<text x="390" y="332.5" class="ln" style="animation-delay:1.15s"><tspan class="dim">. </tspan><tspan class="key">Tools</tspan><tspan class="dim">: ....................................... </tspan><tspan class="val">fbaio.org</tspan></text>
+<text x="390" y="352.0" class="ln" style="animation-delay:1.21s"></text>
+<text x="390" y="371.5" class="ln" style="animation-delay:1.27s"><tspan class="dim">- </tspan><tspan class="acc">GitHub Stats</tspan><tspan class="dim"> ───────────────────────────────────────────</tspan></text>
+<text x="390" y="391.0" class="ln" style="animation-delay:1.33s"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan><tspan class="dim">: ............... </tspan><tspan class="val">190</tspan><tspan class="dim"> | </tspan><tspan class="key">Stars</tspan><tspan class="dim">: ................ </tspan><tspan class="val">859</tspan></text>
+<text x="390" y="410.5" class="ln" style="animation-delay:1.39s"><tspan class="dim">. </tspan><tspan class="key">Followers</tspan><tspan class="dim">: ........... </tspan><tspan class="val">500</tspan><tspan class="dim"> | </tspan><tspan class="key">Forks</tspan><tspan class="dim">: ................ </tspan><tspan class="val">389</tspan></text>
+<text x="390" y="436.0"><tspan class="ok">hoang@github</tspan><tspan class="dim">:</tspan><tspan class="val">~</tspan><tspan class="dim">$ </tspan><tspan class="cur">█</tspan></text>
+<text x="910" y="456" text-anchor="end" class="foot">auto-updated 2026-11-06</text>
+</svg>
