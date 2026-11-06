@@ -31,7 +31,7 @@
 - 🔭 Working at **MoMo** — Kotlin Multiplatform & Compose, from miniapp to native Android/iOS
 - 🌙 After hours: game engines, browser extensions, and tools born out of my own irritation
 - 🤖 Building with AI every day — not for autocomplete, but for design talks, specs, tests and code review
-- 👯 Open to collaborate on [Useful Script](https://github.com/Useful-Scripts-Extension/useful-script), [FB AIO](https://github.com/fb-aio), [moba2d](https://github.com/moba2d-game) 🎇
+- 👯 Open to collaborate on [Useful Script](https://github.com/Useful-Scripts-Extension/useful-script), [FB AIO](https://github.com/fb-aio), [moba2d](https://github.com/moba2d-game), [TV Remote](https://github.com/HoangTran0410/tv-remote), [Gamehub24](https://github.com/HoangTran0410/gamehub24) 🎇
 - 💬 Ask me about **anything** 🤣
 
 <!-- aio-desktop:start -->
